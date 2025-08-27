@@ -28,7 +28,7 @@ These results highlight the potential of the proposed method in creating **highl
 ## 📈 Results
 **Improvement of the lightweight student models after applying the proposed knowledge distillation (KD) method**  
 
-![Student Model Improvements](kd/summarized_result.png)  
+![Student Model Improvements](KD/summarized_result.png)  
 
 ---
 
@@ -38,7 +38,7 @@ Traditional distillation is well-studied in classification, but not directly sui
 We propose a **new regression-oriented distillation strategy**:
 
 <p align="left">
-  <img src="kd/kd.png" alt="Proposed Knowledge Distillation" width="600"/>
+  <img src="KD/kd.png" alt="Proposed Knowledge Distillation" width="600"/>
 </p>
 
 
